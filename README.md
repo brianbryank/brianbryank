@@ -8,7 +8,7 @@
 brianbryank/brianbryank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![brian's GitHub Banner](https://imgur.com/A1xunAt.gif)](https://brianbryank.com)
+[![brian's GitHub Banner](https://giphy.com/clips/work-computer-laptop-1u01IRKm3cKUH4GU1U)](https://brianbryank.com)
 
 My name is Brian kiplangat, I'm a software engineer who is interested in learning new technologies and meeting new people.
 
