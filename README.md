@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-My name is Brian kiplangat, I'm a software engineer who is interested in learning new technologies and meeting new people.
+My name is Brian kiplangat, I'm a software engineer interested in learning new technologies and meeting new people.
 
 If you are interested in some of my work, you can find it [here](brianbryan0125@gmail.com)
 <br>
